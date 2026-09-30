@@ -15,7 +15,6 @@ while True:
 
     choice = input("Enter your choice: ")
 
-    # Add Book
     if choice == "1":
         book_id = input("Enter Book ID: ")
         book_name = input("Enter Book Name: ")
